@@ -1,9 +1,11 @@
-site_name: My Academic Notes
+site_name: UW-Notes
 
 theme:
   name: material
 
 nav:
   - Home: index.md
-  - Mathematics: Math.md
-      - Math134: MATH/Math 134/MATH 134 Overview.md
+  - Mathematics:
+      - Math.md
+      - Math134:
+          - MATH 134 Overview: MATH/Math 134/MATH 134 Overview.md
